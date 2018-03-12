@@ -1,6 +1,6 @@
 Description
 ========================================================
-DataPy is a light data processing library which could
+DataPy là một thư viện xử lý dữ liệu đơn giản which could
 be used in loading data from data profiles easily and 
 contain or reduce part of the data easily. Additionly,
 it contains some basic formulas that help the developers
